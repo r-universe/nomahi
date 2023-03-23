@@ -8,3 +8,8 @@
 	url = https://github.com/nomahi/boutliers
 	shallow = true
 	registered = true
+[submodule "robustmeta"]
+	path = robustmeta
+	url = https://github.com/cran/robustmeta
+	shallow = true
+	registered = true
