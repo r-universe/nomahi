@@ -8,6 +8,11 @@
 	url = https://github.com/nomahi/boutliers
 	shallow = true
 	registered = true
+[submodule "PINMA"]
+	path = PINMA
+	url = https://github.com/cran/PINMA
+	shallow = true
+	registered = true
 [submodule "robustmeta"]
 	path = robustmeta
 	url = https://github.com/cran/robustmeta
