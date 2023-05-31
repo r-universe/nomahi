@@ -8,6 +8,11 @@
 	url = https://github.com/nomahi/boutliers
 	shallow = true
 	registered = true
+[submodule "dmetatools"]
+	path = dmetatools
+	url = https://github.com/nomahi/dmetatools
+	shallow = true
+	registered = true
 [submodule "MVPBT"]
 	path = MVPBT
 	url = https://github.com/cran/MVPBT
