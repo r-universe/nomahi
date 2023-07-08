@@ -11,6 +11,9 @@
 [submodule "MVPBT"]
 	path = MVPBT
 	url = https://github.com/cran/MVPBT
+[submodule "NMA"]
+	path = NMA
+	url = https://github.com/cran/NMA
 [submodule "PINMA"]
 	path = PINMA
 	url = https://github.com/cran/PINMA
