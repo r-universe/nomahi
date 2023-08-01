@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "boutliers"]
-	path = boutliers
-	url = https://github.com/nomahi/boutliers
-[submodule "dmetatools"]
-	path = dmetatools
-	url = https://github.com/nomahi/dmetatools
 [submodule "MVPBT"]
 	path = MVPBT
 	url = https://github.com/cran/MVPBT
@@ -17,6 +11,12 @@
 [submodule "PINMA"]
 	path = PINMA
 	url = https://github.com/cran/PINMA
+[submodule "boutliers"]
+	path = boutliers
+	url = https://github.com/nomahi/boutliers
+[submodule "dmetatools"]
+	path = dmetatools
+	url = https://github.com/nomahi/dmetatools
 [submodule "robustmeta"]
 	path = robustmeta
 	url = https://github.com/cran/robustmeta
