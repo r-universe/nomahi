@@ -20,3 +20,6 @@
 [submodule "robustmeta"]
 	path = robustmeta
 	url = https://github.com/cran/robustmeta
+[submodule "rqlm"]
+	path = rqlm
+	url = https://github.com/cran/rqlm
