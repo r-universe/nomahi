@@ -23,3 +23,6 @@
 [submodule "rqlm"]
 	path = rqlm
 	url = https://github.com/cran/rqlm
+[submodule "survNMA"]
+	path = survNMA
+	url = https://github.com/cran/survNMA
