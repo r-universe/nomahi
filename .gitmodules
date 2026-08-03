@@ -11,6 +11,9 @@
 [submodule "PINMA"]
 	path = PINMA
 	url = https://github.com/cran/PINMA
+[submodule "TTE"]
+	path = TTE
+	url = https://github.com/cran/TTE
 [submodule "boutliers"]
 	path = boutliers
 	url = https://github.com/nomahi/boutliers
